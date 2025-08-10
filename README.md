@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mohammed Mustafa
 
-Cybersecurity Engineer | Researcher & Innovator in Cybersecurity | IT & Network Specialist
-
 I am a cybersecurity engineering student aspiring to become a scientist in cybersecurity by conducting scientific research and developing new technologies to combat digital threats.
 
 ---
