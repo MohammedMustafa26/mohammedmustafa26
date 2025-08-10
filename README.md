@@ -4,14 +4,13 @@ I am a cybersecurity engineering student aspiring to become a scientist in cyber
 
 ---
 
-## 🛡️ Skills & Tools
+## 🛡️ Cybersecurity Skills
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000.svg?&style=flat&logo=HackTheBox&logoColor=green)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25.svg?&style=flat&logo=gnu-bash&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0066CC.svg?&style=flat&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-FF0000.svg?&style=flat&logo=burp-suite&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0066CC.svg?&style=flat&logo=cisco&logoColor=white)
+![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624.svg?&style=flat&logo=linux&logoColor=black)
+![SOC](https://img.shields.io/badge/SOC%20Operations-FF6F00.svg?&style=flat&logo=siemens&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2E8B57.svg?&style=flat&logo=kalilinux&logoColor=white)
 
 ---
 
